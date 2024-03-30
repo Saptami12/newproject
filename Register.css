@@ -1,0 +1,48 @@
+.add-student {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2xzEjm2T4u--PQCmmI_g1IFVOyqzXy6BdaQ&usqp=CAU');
+    background-size:cover; /* Adjust this property based on your image requirements */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #f5f5f5; /* Fallback color in case the image doesn't load */
+}
+.registration-form-container {
+    max-width: 600px;
+    margin: 50px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: ThreeDHighlight;
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-field {
+    margin-bottom: 15px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: hotpink;
+    background-color: #f0f0f0;
+}
+
+.submit-button {
+    padding: 10px;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.external-link {
+    color: black;
+    background-color: wheat;
+    margin-top: iren; /* Check this value, it looks like a placeholder */
+}

@@ -1,0 +1,39 @@
+.dashboard-container {
+    width: 80%;
+    margin: auto;
+    padding: 40px;
+    background-color: #c2eaf5;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dashboard-title {
+    color: #045ea7;
+    font-style: oblique;
+    font-size:60px;
+  }
+  
+  .dashboard-details {
+    margin-top: 20px;
+    color: maroon;
+    font-size: 20px;
+  }
+  
+  .dashboard-details p {
+    margin-bottom: 10px;
+    color: maroon;
+    font-size: 20px;
+  }
+  
+  .dashboard-details ul {
+    list-style: none;
+    padding: 0;
+    color: maroon;
+    font-size: 20px;
+  }
+  
+  .dashboard-details li {
+    margin-bottom: 5px;
+    color:maroon;
+    font-size: 20px;
+  }

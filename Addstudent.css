@@ -1,0 +1,17 @@
+.form-container {
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.input-field {
+  margin-bottom: 8px;
+}
+
+.total-grade {
+  margin-top: 16px;
+  color: #1976d2; /* Primary color */
+}
+
+.submit-button {
+  margin-top: 24px;
+}
